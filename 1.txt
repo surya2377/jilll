@@ -1,1 +1,2 @@
 sample git file
+changed aftrer branching
